@@ -93,7 +93,7 @@ Special Guest: Prof. Sarah Keller
 
 ### Discussion
 
-*   Jean Epstein. "The Cinema Seen from Etna," "Certain Characteristics of Photogénie," "Seeing and Hearing Thought," "The Counterpoint of Sound," and "The Close-up of Sound." In ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_Jean Epstein: Critical Essays and New Translations_. (PDF - 4.0MB)](http://dare.uva.nl/document/361589) Edited By Sarah Keller and Jason Paul. Amsterdam University Press, 2012. ISBN: 9789089642929.
+*   Jean Epstein. "The Cinema Seen from Etna," "Certain Characteristics of Photogénie," "Seeing and Hearing Thought," "The Counterpoint of Sound," and "The Close-up of Sound." In [_Jean Epstein: Critical Essays and New Translations_. (PDF - 4.0MB)](http://dare.uva.nl/document/361589) Edited By Sarah Keller and Jason Paul. Amsterdam University Press, 2012. ISBN: 9789089642929.
 
 
 {{< tdclose >}}
@@ -196,7 +196,7 @@ Special Guest Prof. James Cahill
 *   Merleau-Ponty, Maurice. "The World of Perception and the World of Science." In _The World of Perception_. Routledge, 2004. ISBN: 9780415773812.
 *   Bazin, André. "Cinema and Exploration." In _What is Cinema? Vol. 1_. Translated by Hugh Gray. University of California Press, 2004, pp. 154–63. ISBN: 9780520242272. \[Preview with [Google Books](http://books.google.com/books?id=y3EKWOUQtxcC&pg=PA154=onepage)\]
 *   Barthes, Roland. "[The _Nautilus_ and the Drunken Boat](http://www.ricorso.net/rx/library/criticism/guest/Barthes_R/Barthes_R3.htm)." 1957.
-*   Césaire, Aimé. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Discourse on Colonialism." (PDF)](https://libcom.org/files/zz_aime_cesaire_robin_d.g._kelley_discourse_on_colbook4me.org_.pdf) Translated by Joan Pinkham. This version published by _Monthly Review Press_: New York and London, 1972. Originally published as _Discours sur le colonialisme_ by Editions Presence Africaine, 1955.
+*   Césaire, Aimé. ["Discourse on Colonialism." (PDF)](https://libcom.org/files/zz_aime_cesaire_robin_d.g._kelley_discourse_on_colbook4me.org_.pdf) Translated by Joan Pinkham. This version published by _Monthly Review Press_: New York and London, 1972. Originally published as _Discours sur le colonialisme_ by Editions Presence Africaine, 1955.
 
 
 {{< tdclose >}}
